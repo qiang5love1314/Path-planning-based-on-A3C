@@ -22,7 +22,7 @@ Extensive experiments in two real-world dynamic environments show that A3C-IPP a
 The main scripts in this repository include:  
 - `LabPathPlanning.py`: Trains the reinforcement learning model for path planning and localization experiments in the Lab Scenario.  
 - `CSI_Predict.py`: This is for the Meeting Room Scenario.
-- 'LabVIF.py': I make the training process visual as same to 'MeetingVIF.py'.
+- 'LabVIF.py': I make the training process visual as same as 'MeetingVIF.py'.
 
 If you use this work for your research, you may want to cite
 ```
